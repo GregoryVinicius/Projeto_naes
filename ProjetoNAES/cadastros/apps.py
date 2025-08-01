@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class PaginaswebConfig(AppConfig):
+class CadastrosConfig(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
-    name = "paginasweb"
+    name = "cadastros"
